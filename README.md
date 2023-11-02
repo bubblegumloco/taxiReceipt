@@ -10,4 +10,4 @@ Also, it made me consider responsiveness with every section created because usua
 * Stacking tables instead of using divs to create new sections
 
 # Demo
-🕹 [Taxi Receipt Email Template]()
+🕹 [Taxi Receipt Email Template](https://bubblegumloco.github.io/taxiReceipt/)
